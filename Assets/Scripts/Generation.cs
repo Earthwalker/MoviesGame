@@ -233,7 +233,7 @@ namespace Movies
 			data = new List<string>();
 
 			// open our data file
-			var stream = File.OpenText(dataFileName);
+			var stream = File.OpenText(Path.Combine(Application.streamingAssetsPath, dataFileName));
 
 			if (stream == null)
 			{
