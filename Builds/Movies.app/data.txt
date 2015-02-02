@@ -1,0 +1,81 @@
+[Customer Name]
+Jack
+Bob
+Steve
+Tom
+Karen
+Bill
+Jackie
+Susan
+Ashley
+Kevin
+Sarah
+Chris
+George
+Mary
+Pam
+
+[Movie Name]
+Tree
+Adventure
+Hole
+War
+Battle
+House
+Flame
+Planet
+Sea
+Game
+Wood
+Girl
+Cake
+Judge
+Son
+Night
+Soldier
+Edge
+Shadow
+Love
+Voice
+Layer
+Tower
+Gun
+Ice
+Goat
+
+[Genre]
+action
+comedy
+drama
+romance
+horror
+family
+adventure
+sci-fi
+zombie
+crime
+fantasy
+mystery
+thriller
+western
+war
+sport
+musical
+documentary
+
+[Actor]
+Bruce Willis
+Anne Hathaway
+Tom Cruise
+Will Ferrell
+Chris Evans
+Chris Pratt
+Elijah Wood
+Natalie Portman
+Bradley Cooper
+Johnny Depp
+Emma Stone
+Olivia Munn
+Brad Pit
+Emily Blunt
+Emma Watson
