@@ -52,14 +52,14 @@ horror
 family
 adventure
 sci-fi
-zombie
+zombies
 crime
 fantasy
 mystery
 thriller
 western
 war
-sport
+sports
 musical
 documentary
 
